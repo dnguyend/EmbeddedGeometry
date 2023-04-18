@@ -8,4 +8,4 @@ The main formulas involves derivatives of a number of operators, including proje
 
 Examples verifies properties of the Christoffel function, the curvature formulas and Bianchi identities.
 
-In []() we show examples for rigid body mechanics, and in []() we show the numerical experiments for the Kim-McCann metric.
+In [JaxRigidBodyDynamics.ipynb](https://github.com/dnguyend/EmbeddedGeometry/blob/main/colab/JaxRigidBodyDynamics.ipynb) we show examples for rigid body mechanics, and in [KMCTests.ipynb](https://github.com/dnguyend/EmbeddedGeometry/blob/main/colab/KMCTests.ipynb) we show the numerical experiments for the Kim-McCann metric.
